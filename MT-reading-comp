@@ -1,15 +1,32 @@
-Read the article at <a href="https://learn.galvanize.com/content/gSchool/fs-curriculum/g64wd/Overview.md">https://learn.galvanize.com/content/gSchool/fs-curriculum/g64wd/Overview.md</a> and answer the following questions in a note below or direct message to an instructor.
+Read the article at <a
+href="https://learn.galvanize.com/content/gSchool/fs-curriculum/g64wd/Overview.md">https://learn.galvaniz
+e.com/content/gSchool/fs-curriculum/g64wd/Overview.md</a> and answer the following questions in a note
+below or direct message to an instructor.
 *Can problem solving skills be improved with practice?*
-They definitely can; just like any other skill, problem solving develops with focused practice and reflection
+They definitely can; just like any other skill, problem solving develops with focused practice and
+reflection
 
 *At a high level, what do developers mean when they say that 'you need to be a good problem solver?'*
-To paraphrase the article, they mean to be able to translate words into software.  A simple translation is: being able to break an idea into its component pieces and then figure out how to execute on those ideas.
+To paraphrase the article, they mean to be able to translate words into software.  A simple translation
+is: being able to break an idea into its component pieces and then figure out how to execute on those
+ideas.
 
 *The article mentions that problem solving is 'cyclical and fractal'. What does that mean?*
-They're specifically referring to the polya method of problem solving wherein specific steps are executed in order to solve a problem.  by saying that these steps are cyclical and fractal they are saying that these steps can and should be executed on multiple times throughout a project and at many different levels.  You may follow the polya method over a long time frame to complete your project as a whole and then execute it multiple times on the smaller parts of that project.
+They're specifically referring to the polya method of problem solving wherein specific steps are
+executed in order to solve a problem.  by saying that these steps are cyclical and fractal they are
+saying that these steps can and should be executed on multiple times throughout a project and at many
+different levels.  You may follow the polya method over a long time frame to complete your project as a
+whole and then execute it multiple times on the smaller parts of that project.
 
 *What is a productive developer?*
-A productive developer is a developer who ships code to their clients in a consistent timeframe.  They manage a consistent development velocity by engaging in habits and using methodology that allows them to be efficient in conceptualizing and solving problems in order to have a more reliable pattern of development.  The more reliable you are the more accurate your project time projections will become
+A productive developer is a developer who ships code to their clients in a consistent timeframe.  They
+manage a consistent development velocity by engaging in habits and using methodology that allows them to
+be efficient in conceptualizing and solving problems in order to have a more reliable pattern of
+development.  The more reliable you are the more accurate your project time projections will become
 
 *What are some common software patterns?*
-accumulator patterns, recursion, object oriented programming.  Recognizing and understanding common software patterns is important to a productive developer because it creates a mental framework for developers that helps them to understand new technologies and reduces the mental friction they have when interacting with unfamiliar tech.  This allows them to focus on internalizing the new information without having to wrangle as much total information.  
+accumulator patterns, recursion, object oriented programming.  Recognizing and understanding common
+software patterns is important to a productive developer because it creates a mental framework for
+developers that helps them to understand new technologies and reduces the mental friction they have when
+interacting with unfamiliar tech.  This allows them to focus on internalizing the new information
+without having to wrangle as much total information.  
