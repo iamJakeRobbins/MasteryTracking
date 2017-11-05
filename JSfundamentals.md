@@ -19,5 +19,4 @@
   and excitement for learning that the Galvanize faculty has done such a fantastic job enkindling in me; and partially because it was a
   powerful reminder of just how far I’ve come in such a short time.  Not to mention how overwhelming all of these things felts in the
 	 moment.  Remembering how hard it was to wrestle with problems that now seem straightforward is extremely helpful as I try to
-
 	 mentally prepare for Q3 in my own program.  
