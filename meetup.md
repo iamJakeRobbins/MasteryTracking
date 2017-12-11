@@ -1,4 +1,4 @@
-# November Denber Ember Meetup!
+# November Dember Ember Meetup!
 
 This past wednesday I attended the monthly Ember meetup organized by our very own Kyle Coberly.  The meetup primarily consisted of a livestream of a Q&A session held in Boston with several members of the core Ember development team.  
 
