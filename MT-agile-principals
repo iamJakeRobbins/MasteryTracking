@@ -8,7 +8,7 @@
 	Velocity is an attempt to measure the average rate of production of a software team.  It is measured
 	by assigning a point value to user stories and then adding the pointvalue of all completed (emphasis
 	on completed) stories during a given timeframe.  This total is your velocity and generally will hold
-	fairly constant throughout a project, given that stories are assigned points in a similiar manner 		
+	fairly constant throughout a project, given that stories are assigned points in a similiar manner
 	across the board.  The goal is to be able to more accurately estimate the duration of a project, or
 	the amount of manhours that will have to be thrown at it to complete it in a given timeframe.
 **Describe the format and purpose of retrospectives**
@@ -29,9 +29,11 @@
 	single machine, one driving the code, the other navigating.  They work on each line and each problem
 	together.  This serves the purpose of guaranteeing two sets of eyes on the code checking for problems
 	or errors, and two brains working on challenges.  It provides a built-in rubber ducky and ensures that
-	no piece of code is only understood by one individual.  
+	no piece of code is only understood by one individual.
+
 **Automated tests**
 	Tests are a crucial part of completing user stories and must be performed frequently so that any errors 	can be addressed quickly.  Automating these tests can save developers a great deal of time.  In some 	cases, developers may have the freedom/be expected to automate any test they have to repeat more than 2 	or 3 times in a short timeframe.
+
 **Half-not-half-assed**
 	cut your product down to the bare minimums; cut the feature list in half and then do it again.  It is
 	better to complete a smaller, more focused project that really excels at what it does than it is to
