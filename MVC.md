@@ -1,6 +1,0 @@
-# The MVC Architectural method and some comparisons to boot!
-MVC -- Model, View, Controller -- is an architectural pattern emphasizing single binding.  It focuses on keeping each part of the architecture discrete and only allowing interactions between relevant parts of the software.  For instance, the controller and the view parts of the architecture will have no communication to speak of and may as well not know the other exists.  A loose (very very loose) analogy can be seen as View = CSS, Model = HTML, Controller = JavaScript.  
-
-By contrast, MVVM architecture focuses on double binding.  It allows two way communication between the model and the view through the viewmodel while keeping the Model (operative) and View(graphical interface) sections of the project completely separate, which costs a whole lot of speed but may make certain aspects of development/deployment easier.    
-
-Component based architecture takes a very different approach, focusing on creating reusable components that can be applied repeatedly in different sections of the project.  An example of this could be coupling the view and controller elements from a MVC model into a single component that can be reused in different parts of the application
