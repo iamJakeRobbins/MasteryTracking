@@ -1,0 +1,236 @@
+* {
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+
+}
+
+.landingMain {
+  text-align: center;
+  padding: 100px 0 100px 0;
+
+}
+
+h1 {
+  color: rgba(19, 183, 220, 0.9);
+}
+
+
+.logo {
+  width: 25%;
+}
+
+.btn-info {
+  background: rgb(255, 170, 52);
+  border: none;
+  transition: background 0.5s;
+}
+
+.btn-info:hover {
+  background: rgba(255, 170, 52, 0.6);
+}
+button, input {
+  margin: 10px 10px;
+}
+
+input {
+  border-radius: 5px;
+  border: 1px solid gray;
+}
+
+p {
+  color: #9B9B9B;
+}
+
+header {
+  background: #2D2D2D;
+
+}
+.headerLogo {
+  height: 75px;
+  width: 110px;
+  padding: 8px 0 8px 0;
+  margin: 0 0 0 10px;
+}
+
+.registerMain {
+  margin: 15px 40px 0px 40px;
+}
+.registerSubmit {
+  margin: 5px 0px 5px 245px;
+}
+
+select {
+  margin: 8px 0px 5px 10px;
+}
+
+.hqHeader {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+
+}
+
+.dropbtn {
+  display: flex;
+  background: #2D2D2D;
+  color: #2D2D2D;
+  border-color: #2D2D2D;
+  font-size: 15px;
+  white-space: nowrap;
+  align-items: flex-end;
+}
+
+.studentPhoto {
+  height: 50px;
+  border-radius: 50%;
+  /* border: 1px solid rgb(255, 170, 52); */
+  border: 1px solid white;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+#userFirstLetter {
+  color: rgb(25, 192, 227);
+  padding: 5px 20px 5px 20px;
+  margin: -5px;
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: #2D2D2D;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #f1f1f1}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #3a3a3a;
+}
+
+.fa-sort-desc {
+  color:white;
+  margin: 1px 1px;
+  font-size: 2px;
+}
+
+.fa-plus {
+  color: rgb(255, 170, 52);
+  margin: 1px 1px;
+  font-size: 10px;
+}
+
+.appButtons {
+  font-size: 20px;
+  /* margin: 0 55px 0 55px; */
+  color:  rgb(19, 183, 220);
+}
+
+.appButtonContainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  white-space: nowrap;
+  width: 100vw;
+}
+
+.logOutButton {
+  background: #2D2D2D;
+  color: rgb(255, 170, 52);
+  border-color: rgb(255, 170, 52);
+}
+
+/*Meetup App CSS*/
+.meetupLink {
+  position: relative;
+  display: inline-block;
+}
+
+.meetup-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.meetupLink:active .meetup-content {
+  display: block;
+}
+
+/*DAILY PLAN STYLING*/
+
+#dailyPlanArea {
+  width: 45%;
+  margin: 1em -30px 0px 0px;
+  padding: 1em;
+  background-color: rgb(245, 245, 245);
+  border: 3px solid rgb(228, 228, 228);
+  border-radius: 5px;
+  overflow: scroll;
+  height: 85vh;
+}
+
+#dailyHead {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+
+/*container styling that holds both daily plan and variable component*/
+
+.hqMain {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  margin: 0px 30px;
+}
+
+/*Variable Component styling*/
+
+.variableComponent {
+  margin: 0px 10px 0px -30px;
+  padding: 10px 10px;
+  width: 45%;
+  overflow: scroll;
+  height: 85vh;
+}
+
+.editUser {
+  width: 225px;
+}
+
+.cohortMembers {
+  padding: 5px 5px;
+  margin-bottom: 5px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+}
