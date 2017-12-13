@@ -1,0 +1,114 @@
+
+
+body {
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+header {
+	margin: 0;
+	padding: 0;
+	display: flex;
+	background-color: orange;
+}
+
+.leftHeader{
+	display: flex;
+}
+
+nav {
+	width: 100vw;
+	display: flex;
+	justify-content: space-between;
+}
+
+.landingPageImg{
+display: flex;
+justify-content: space-around;
+width: 90vw;
+padding: 3vw;
+padding-top: 10vw;
+}
+.sidebarImg{
+	height: 15vw;
+	width: 15vw;
+}
+
+.headerLogo{
+	height: 10vw;
+}
+.covers{
+	height: 25vw;
+	width: 25vw;
+}
+
+.media {
+	padding:5vw;
+	padding-left: 2vw;
+}
+
+.side-nav{
+	display: flex;
+}
+
+@media(max-width: 667px) {
+
+	body {
+	  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	}
+
+	a {
+	  color: #00B7FF;
+	}
+
+header {
+		margin: 0;
+		padding: 0;
+		display: flex;
+		background-color: blue;
+	}
+
+
+	.leftHeader{
+		display: flex;
+	}
+
+	nav {
+		width: 100vw;
+		display: flex;
+		justify-content: space-between;
+	}
+
+	.landingPageImg{
+display: flex;
+flex-direction: column;
+	width: 90vw;
+	padding: 3vw;
+	padding-top: 10vw;
+	}
+	.sidebarImg{
+		height: 15vw;
+		width: 15vw;
+	}
+
+	.headerLogo{
+		height: 10vw;
+	}
+	.covers{
+		height: 25vw;
+		width: 25vw;
+	}
+
+	.media {
+		padding:5vw;
+		padding-left: 2vw;
+	}
+
+	.side-nav{
+		display: flex;
+	}
+
+}
