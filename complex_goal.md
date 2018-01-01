@@ -14,3 +14,6 @@ Over the next month I plan to familiarize myself with the big 3 (ish) of front-e
 	*  make note of difficulties or hangups
 	*  reflect on the process after completion. What did I like, what did I hate?
 5. Reflect on the process with a view towards identifying which of the frameworks feels most comfortable and intuitive to me.
+
+	- after spending time with all of these frameworks I have some mixed feelings.  Primarily, this is because there are elements of each that I really enjoy.  I love the power and varied degree of support that Ember provides with things like Ember Data, Ember Fire etc.  I love the ease of development that its CLI adds.  I really enjoy React's speed and power and flexibility; things that I feel that VUE largely shares.
+	At the end of the day i'm interested in continuing to learn all of the frameworks and digging in to each of their quirks.  I think there is a strong case to be made that each has a niche that it really excels in and that having a reasonable degree of skill broadens the types of projects you are equiped to take on.  That said, I think that React is the dominant force in the market currently and as a job seeker it makes the most sense to highlight my competency in this area.
