@@ -1,0 +1,9 @@
+# Describe the pros and cons of a technical choice
+
+As a developer, you are certainly not starved for choice when it comes to Front-end Frameworks.  There are a million and one options to choose from and new technology is being developed almost daily.  And yet there is no undisputed king; each framework has its own pros and cons.  Today we're going to be exploring a few of the reasons you may want to choose ember.js for your next project; as well as a couple of reasons you may rather avoid it like a plague.
+
+We're going to start by getting really confusing and discussing both the biggest pro and the biggest con of ember.js: its rigidity in how it allows you to accomplish tasks.  This is fantastic in that it forces you to adhere to best practices, and it means that once you're familiar with its quirks and foibles you'll be able to jump into almost any ember project with very little acclimation required.  On the downside, this makes ember a bit more daunting to pick up and start playing with than most of its brethren.  Until you know how to accomplish something it can be extremely frustrating trying to hack away at a problem.  This is a huge part of what makes ember so powerful, but it is also a significant obstacle to adoption.  
+
+Other pros include the excellent tools that ember has at its disposal.  Though oft imitated, the emberCLI is still the most robust that i've played with, allowing you to create link and implement templates, routes, compontents, almost anything you'd like to help scaffold your app, with just a quick line in the terminal.  
+
+On the con side, one does have to worry about the rather bulky nature ember; it is designed to create 'ambitious' apps and this means some extra weight.  For lightweight applications this extra bulk may be unnecessary at best and unwieldy at worst.  In addition, the rigidity we mentioned earlier also makes ember a bit less flexible, at least in the short term, than its cousins.
